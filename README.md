@@ -82,7 +82,7 @@ Roles are auto-assigned by the order players open the link:
 ## 🔗 Links
 
 - **Telegram Bot:** [@mchessbot](https://t.me/mchessbot)
-- **Website:** [srabon.net](https://srabon.net)
+- **Website:** [srabon.net](https://srabon.net/mchess)
 
 ---
 
